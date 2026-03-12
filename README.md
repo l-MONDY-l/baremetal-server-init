@@ -1,6 +1,6 @@
 # baremetal-server-init
 
-> Baseline Linux server initialization script for bare metal and production-style deployments.
+> Baseline Linux server initialization script for bare metal and production-style deployments. 
 
 ![Linux](https://img.shields.io/badge/Platform-Linux-blue?style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Focus-Server%20Bootstrap-orange?style=for-the-badge)
